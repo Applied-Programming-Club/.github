@@ -1,1 +1,1 @@
-# .github
+# Tesla STEM Applied Programming Club
